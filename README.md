@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/79041670/191497012-d3afff1c-2d15-41e4-a41a-4c2ee5c676c7.png)
+                                                                       ![Uploading image.png…]()
 Semantic HTML and SEO Session
  
  
