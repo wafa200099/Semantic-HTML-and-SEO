@@ -1,5 +1,7 @@
-![image](https://user-images.githubusercontent.com/79041670/191497989-c8aefbfb-0342-44db-9ea4-c42963a32b05.png)
-
+<p align="center">
+    <img src="https://user-images.githubusercontent.com/62269745/174906065-7bb63e14-879a-4740-849c-0821697aeec2.png#gh-light-mode-only" width="40%">
+    <img src="https://user-images.githubusercontent.com/62269745/174906068-aad23112-20fe-4ec8-877f-3ee1d9ec0a69.png#gh-dark-mode-only" width="40%">
+</p>
 Semantic HTML and SEO Session
  
  
